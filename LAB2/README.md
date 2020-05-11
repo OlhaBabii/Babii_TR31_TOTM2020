@@ -22,8 +22,8 @@
   <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/13.jpg"></p>
               <ul>
               <li>Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей? 
-                <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/3.jpg"></p></li> 
-                <li>Як зміниться топологія графа (структурні зв’язки), якщо всі елементи над або під діагоналлю перетворити в 1? Або 0?                    <p>Всi елементи над головною дiагоналлю перетворюємо в 0</p>  <p align="center"><img                 src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/4.jpg"></p></li>
+                <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/3.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/14.jpg"></p></li> 
+                <li>Як зміниться топологія графа (структурні зв’язки), якщо всі елементи над або під діагоналлю перетворити в 1? Або 0?                    <p>Всi елементи над головною дiагоналлю перетворюємо в 0</p>  <p align="center"><img                 src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/4.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/15.jpg"></p></li>
           </ul>
   <li>За допомогою лабораторного макету побудувати випадковий орієнтований граф G={5,10} та записати його матрицю відповідностей (інцедентності).
   <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/5.jpg"></p>
@@ -31,12 +31,12 @@
   <ul><li>Як з матриці відповідностей можна визначити ступінь кожної вершини? <p><b>Ступiнь вершини визначається кiлькiстю ребер, якi з неї входять i виходять</b></p></li></il></ul>
   <li>Задано граф G та M.</li>
                         <ul>
-                            <li>Записати їх матриці суміжності та побудувати графічне представлення. <p>G={(5,1), (6,1),(2,3), (3,4),   (2,6),(3,6),(5,6),(1,7),(2,7),(3,7),(4,7),(6,7)}</p> <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/14.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/6.jpg"></p></li>
+                            <li>Записати їх матриці суміжності та побудувати графічне представлення. <p>G={(5,1), (6,1),(2,3), (3,4),   (2,6),(3,6),(5,6),(1,7),(2,7),(3,7),(4,7),(6,7)}</p> <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/16.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/6.jpg"></p></li>
                             <li>Графи орієнтовані чи неорієнтовані? <p><b>Граф орiєнтований</b></p></li>
                             <li>Яка кількість вершин V та ребер E? <p><b>V=7</b></p>  <p><b>E=12</b></p></li>
                             <li>Яка з вершин має найбільшу ступінь? Скільки? <p><b>Найвищу ступiнь має вершина 7, вона дорiвнює 5</b></p></li>
                             <li>Визначте ексцентриситети вершин для графа G та M. <p>Ексцентриситети вершин:</p>
-                              <p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB2/img/10.png"></p></li>
+                              <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/17.jpg"></p></li>
                             <li>Який радіус кожного з графів? <p><b>Радiус графа – 1</b></p></li>
                             <li>Який діаметр кожного з графів? <p><b>Дiаметр графа – 2</b></p></li>
                             <li>Чи містять графи петлі (елементарні цикли)? Вкажіть послідовність ребер. <p><b>Петель граф не мiстить</b></p></li>
@@ -44,13 +44,13 @@
                             <li>При транспонування GT та MT чи змінюється графічне представлення графа? Як?<p><b>При транспонуваннi всi напрямки ребер помiняються в iншу сторону.</b></p></li>
                       </ul>  
                       <ul>
-                                  <li>Записати їх матриці суміжності та побудувати графічне представлення.  <p>M={(2,1),   (5,1),   (1,2),   (4,2),   (5,2),   (6,2),   (2,4),   (5,4),   (6,4),   (1,5),   (2,5)   (4,5)   (6,5),   (2,6),   (4,6),   (5,6)}</p><p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/6.jpg"></p></li>
+                                  <li>Записати їх матриці суміжності та побудувати графічне представлення.  <p>M={(2,1),   (5,1),   (1,2),   (4,2),   (5,2),   (6,2),   (2,4),   (5,4),   (6,4),   (1,5),   (2,5)   (4,5)   (6,5),   (2,6),   (4,6),   (5,6)}</p><p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/7.jpg"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/18.jpg"></p></li>
                                   <li>Графи орієнтовані чи неорієнтовані?   <p><b>Граф неорiєнтований</b></p></li>
                                   <li>Яка кількість вершин V та ребер E?  <p><b>V=5</b></p>
                                               <p><b>E=8</b></p>
                                      </b></p></li>
                                   <li>Яка з вершин має найбільшу ступінь? Скільки?  <p><b> Найвищу ступiнь мають вершини 2 та 5 , вона дорiвнює 4</b></p></li>
-                                  <li>Визначте ексцентриситети вершин для графа G та M.  <p>Ексцентриситети вершин:</p><p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB2/img/12.png"></p></li>
+                                  <li>Визначте ексцентриситети вершин для графа G та M.  <p>Ексцентриситети вершин:</p><p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/19.jpg"></p></li>
                                   <li>Який радіус кожного з графів?  <p><b>Радiус графа – 1</b></p></li>
                                   <li>Який діаметр кожного з графів?  <p><b>Дiаметр графа – 2  </b></p></li>
                                   <li>Чи містять графи петлі (елементарні цикли)? Вкажіть послідовність ребер.  <p><b>Петель граф не мiстить </b></p></li>
