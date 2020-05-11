@@ -4,7 +4,7 @@
 <h2>Хід виконання роботи</h2>
 <ol>
 <li>Скласти схему мережі у Packet Tracer та перейти у Simulation mode. </li>
-<img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB1/1.jpg" alt="">
+<img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB1/265.jpg">
 <li>Запустити команду ping між комп’ютерами що під’єднані до повторювача (hub) та прослідкувати передачу пакетів між ними:
 <ul>
 <li>Кому належить (якому пристрою) MAC адреса призначення кадру (destination МАС)?
@@ -27,7 +27,7 @@
 <p> Switch> enable</p>
 <p> Switch# show mac-address-table</p>
 <p><b><i> Результат виконання команди: </i></b></p>
-<img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB1/2.jpg" alt="">
+<img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB1/586.jpg">
 </li>
 <li>
 <p>Чи можливо що декілька МАС адрес прив’язані до одного порту в МАС таблиці комутатора? Чому і що це за адреси?<span class="red"> Ні неможливо, тому що це фізична адреса пристрою</span></p>
@@ -75,7 +75,7 @@
                     <p>Router> enable</p>
                     <p>Router# show ip route</p>
                     <p>Маршрути до яких мереж присутні в таблиці маршрутизації? Вказати через які порти маршрутизатора доступна кожна з мереж.</p>
-                    <img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB1/3.jpg" alt="">
+                    <img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB1/058.jpg">
                     <p>Вказано маршрути до LAN_1 та LAN_2. Які доступні через порти 1 та 0.</p>
                 </li>
                 <li>Запустити ping між комп’ютерами LAN_1 та LAN_3. Як змінюється МАС адреса на Router_LAN_1?
@@ -111,7 +111,7 @@
         </li>
     </ol>
     <p>
-        <b>Висновок: під час виконання даної лабораторної роботи ми дослідили роботу мережі згідно моделі OSI за допомогою програми Packet Tracer. В результаті виконання лабораторної роботи досягнуто мети, труднощів не виникло та вдалося виконати
+        <b>Висновок: на даній лабораторній роботі я дослідила мережі згідно моделі OSI за допомогою програми Packet Tracer. В результаті виконання лабораторної роботи досягнуто мети, труднощів не виникло та вдалося виконати
         всі поставлені завдання.
     </b></p>
 
