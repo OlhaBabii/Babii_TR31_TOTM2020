@@ -6,7 +6,7 @@
 <li>За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={8,12}</li>
 <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/1.jpg"></p>
 <ul><li>Побудувати дерево за алгоритмом обходу в ширину (BFS); (для 2-х різних вершин)</li>
-  <p align="center"><img src=https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/2.jpg"></p><p align="center">Обхід в ширину. Коренева вершина – 4</p>
+  <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/2.jpg"></p><p align="center">Обхід в ширину. Коренева вершина – 4</p>
   <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/3.jpg"></p><p align="center"> <p align="center">Обхід в ширину. Коренева вершина – 1</p>
  <li>Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому?  <p><b>Топології схожі, а також ранги для для двох вершин будуть однакові.</b></p></li>
  <li>Побудувати дерево за алгоритмом обходу в глибину (DFS); (для 2-х різних вершин)
