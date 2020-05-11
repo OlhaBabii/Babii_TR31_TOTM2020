@@ -6,7 +6,7 @@
 <ol>
   <li>Записати (придумати) матрицю суміжності орієнтованого графа G={7,12}. Ввести її у лабораторний макет (поле ) та побудувати візуальне представлення графа.</li>
   <p align="center"><img  src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/1.jpg"> </p>
-  <p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB2/img/2.png"></p>
+  <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/11.jpg"></p>
           <ul> 
             <li>Чи є у побудованому графі ізольовані вершини або незв’язні компоненти? <p>так, назвіть їх</p>
               <p><b>ні, які ребра потрібно видалити щоб вони утворились? </b></p> <p>Для того щоб у графi з’явилися iзольованi вершини потрiбно видалити ребро мiж вершинами 1 та 6</p></li>
@@ -15,11 +15,11 @@
             <p>ні, вкажіть цикл обходу всіх вершин;</p></li>
             <li>Чи існує в графі цикл обходу вершин (цикл Гамільтона)? <p><b>так, вкажіть послідовність вершин, що входять до даного циклу;  </b></p> <p>1,6,5,2,4,3,7<p>  <p>ні, що потрібно змінити в графі щоб даний цикл існував;</p></li>
             <li>Чи існує в графі цикл обходу ребер (цикл Єйлера); <p>так, вкажіть послідовність ребер, що входять до даного циклу;</p><p><b>ні, що потрібно змінити в графі щоб даний цикл існував; </b></p> <p>щоб даний цикл iснував потрiбно змiнити напрям мiж вершинами 5 i 7</p></li>
-            <li>Побудувати доповнення (обернений) графа G. <p align="center"> <img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB2/img/3.png"></p></li>
+            <li>Побудувати доповнення (обернений) графа G. <p align="center"> <img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/12.jpg"></p></li>
             </ul>
   <li>За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={7,15} та записати його матрицю суміжності.</li>
   <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/2.jpg"></p>
-  <p align="center"><img src="https://github.com/SofiiaBazivTR31/Baziv_TR31_TOTM2020/blob/master/LAB2/img/5.png"></p>
+  <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/13.jpg"></p>
               <ul>
               <li>Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей? 
                 <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB2/3.jpg"></p></li> 
