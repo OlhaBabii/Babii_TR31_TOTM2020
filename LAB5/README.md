@@ -3,7 +3,7 @@
 <strong>Мета:</strong> Навчитись знаходити максимальний потік між парою вузлів та визначати мінімальний переріз.
 
 <h2 align="center">Виконання роботи</h2>
-<h2 align="center">Варіант №2</h2>
+<h3 align="center">Варіант №2</h3>
 <ol>
 <p align="center"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB5/photo_2020-05-21_15-21-35.jpg"></p> 
  
